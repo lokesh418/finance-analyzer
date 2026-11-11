@@ -1,0 +1,326 @@
+date,description,category,amount
+2025-01-01,ACME Corp Salary,,4500.0
+2025-01-01,Shell Gas,,-24.03
+2025-01-02,Landlord Rent,Rent,-1400.0
+2025-01-04,Gym Membership,,-35.0
+2025-01-04,Starbucks,,-35.84
+2025-01-04,Restaurant,,-8.28
+2025-01-06,Electric Company,,-123.83
+2025-01-07,Internet Provider,,-59.99
+2025-01-07,Whole Foods,,-25.45
+2025-01-08,Trader Joes,,-67.89
+2025-01-10,Netflix,,-15.99
+2025-01-10,Spotify,,-10.99
+2025-01-11,Amazon,,-103.0
+2025-01-13,Trader Joes,,-109.62
+2025-01-14,Shell Gas,,-23.66
+2025-01-14,Whole Foods,,-46.66
+2025-01-15,Uber,,-26.14
+2025-01-16,Trader Joes,,-77.89
+2025-01-19,Amazon,,-46.76
+2025-01-21,Amazon,,-20.37
+2025-01-22,Trader Joes,,-50.51
+2025-01-23,Starbucks,,-46.27
+2025-01-23,Whole Foods,,-43.3
+2025-01-23,Whole Foods,,-50.76
+2025-01-25,Whole Foods,,-92.75
+2025-01-28,Trader Joes,,-77.07
+2025-02-01,ACME Corp Salary,,4500.0
+2025-02-01,Uber,,-54.33
+2025-02-02,Landlord Rent,Rent,-1400.0
+2025-02-04,Whole Foods,,-57.95
+2025-02-04,Gym Membership,,-35.0
+2025-02-05,Restaurant,,-31.76
+2025-02-06,Electric Company,,-120.83
+2025-02-07,Internet Provider,,-59.99
+2025-02-07,Starbucks,,-67.94
+2025-02-10,Netflix,,-15.99
+2025-02-10,Spotify,,-10.99
+2025-02-11,Trader Joes,,-57.25
+2025-02-14,Whole Foods,,-71.0
+2025-02-17,Restaurant,,-49.29
+2025-02-17,Trader Joes,,-75.15
+2025-02-17,Whole Foods,,-37.77
+2025-02-18,Starbucks,,-34.18
+2025-02-19,Amazon,,-33.16
+2025-02-20,Whole Foods,,-75.85
+2025-02-20,Trader Joes,,-88.05
+2025-02-21,Trader Joes,,-99.06
+2025-02-27,Uber,,-45.23
+2025-03-01,ACME Corp Salary,,4500.0
+2025-03-01,Shell Gas,,-21.15
+2025-03-01,Amazon,,-99.3
+2025-03-02,Landlord Rent,Rent,-1400.0
+2025-03-03,Starbucks,,-61.86
+2025-03-04,Gym Membership,,-35.0
+2025-03-04,Whole Foods,,-61.4
+2025-03-05,Trader Joes,,-71.95
+2025-03-06,Trader Joes,,-73.42
+2025-03-06,Electric Company,,-124.24
+2025-03-07,Trader Joes,,-64.76
+2025-03-07,Internet Provider,,-59.99
+2025-03-08,Starbucks,,-28.75
+2025-03-10,Netflix,,-15.99
+2025-03-10,Spotify,,-10.99
+2025-03-11,Trader Joes,,-107.21
+2025-03-11,Whole Foods,,-28.23
+2025-03-16,Whole Foods,,-27.14
+2025-03-16,Whole Foods,,-41.36
+2025-03-18,Whole Foods,,-59.93
+2025-03-20,Restaurant,,-43.78
+2025-03-22,Trader Joes,,-27.58
+2025-03-23,Starbucks,,-15.67
+2025-03-23,Shell Gas,,-51.69
+2025-03-25,Trader Joes,,-52.38
+2025-03-26,Starbucks,,-54.98
+2025-03-26,Whole Foods,,-100.14
+2025-03-27,Uber,,-48.88
+2025-03-28,Amazon,,-82.85
+2025-04-01,ACME Corp Salary,,4500.0
+2025-04-02,Landlord Rent,Rent,-1400.0
+2025-04-04,Gym Membership,,-35.0
+2025-04-06,Pharmacy,,-42.04
+2025-04-06,Trader Joes,,-40.25
+2025-04-06,Electric Company,,-83.59
+2025-04-07,Internet Provider,,-59.99
+2025-04-07,Restaurant,,-39.25
+2025-04-08,Whole Foods,,-108.33
+2025-04-10,Spotify,,-10.99
+2025-04-10,Netflix,,-15.99
+2025-04-10,Trader Joes,,-53.91
+2025-04-11,Whole Foods,,-105.59
+2025-04-13,Whole Foods,,-69.3
+2025-04-15,Trader Joes,,-88.14
+2025-04-16,Starbucks,,-22.06
+2025-04-17,Whole Foods,,-105.92
+2025-04-18,Uber,,-32.92
+2025-04-21,Amazon,,-25.07
+2025-04-21,Starbucks,,-10.4
+2025-04-21,Uber,,-58.72
+2025-04-23,Starbucks,,-49.29
+2025-04-26,Trader Joes,,-61.27
+2025-04-27,Starbucks,,-32.35
+2025-05-01,ACME Corp Salary,,4500.0
+2025-05-02,Landlord Rent,Rent,-1400.0
+2025-05-04,Gym Membership,,-35.0
+2025-05-04,Trader Joes,,-99.6
+2025-05-05,Uber,,-28.98
+2025-05-06,Trader Joes,,-89.94
+2025-05-06,Electric Company,,-76.74
+2025-05-07,Internet Provider,,-59.99
+2025-05-10,Spotify,,-10.99
+2025-05-10,Netflix,,-15.99
+2025-05-12,Trader Joes,,-87.05
+2025-05-13,Restaurant,,-22.18
+2025-05-14,Whole Foods,,-51.07
+2025-05-15,Whole Foods,,-27.57
+2025-05-16,Amazon,,-73.84
+2025-05-17,Uber,,-45.5
+2025-05-17,Trader Joes,,-75.55
+2025-05-18,Whole Foods,,-30.26
+2025-05-19,Whole Foods,,-64.6
+2025-05-20,Restaurant,,-18.0
+2025-05-23,Trader Joes,,-102.83
+2025-05-23,Trader Joes,,-102.64
+2025-05-27,Whole Foods,,-78.99
+2025-05-28,Starbucks,,-8.5
+2025-06-01,Whole Foods,,-53.79
+2025-06-01,ACME Corp Salary,,4500.0
+2025-06-02,Landlord Rent,Rent,-1400.0
+2025-06-03,Amazon,,-33.37
+2025-06-04,Uber,,-16.2
+2025-06-04,Gym Membership,,-35.0
+2025-06-05,Shell Gas,,-57.52
+2025-06-06,Electric Company,,-106.65
+2025-06-07,Whole Foods,,-73.82
+2025-06-07,Internet Provider,,-59.99
+2025-06-09,Trader Joes,,-92.78
+2025-06-09,Whole Foods,,-98.34
+2025-06-10,Netflix,,-15.99
+2025-06-10,Spotify,,-10.99
+2025-06-10,Restaurant,,-63.15
+2025-06-11,Whole Foods,,-93.14
+2025-06-11,Trader Joes,,-76.79
+2025-06-13,Amazon,,-85.72
+2025-06-13,Trader Joes,,-35.98
+2025-06-14,Shell Gas,,-24.66
+2025-06-14,Trader Joes,,-97.59
+2025-06-14,Whole Foods,,-73.76
+2025-06-17,Amazon,,-58.06
+2025-06-18,Starbucks,,-57.42
+2025-06-23,Whole Foods,,-81.2
+2025-06-24,Restaurant,,-52.21
+2025-06-24,Trader Joes,,-100.02
+2025-06-24,Whole Foods,,-34.58
+2025-06-26,Uber,,-26.37
+2025-07-01,ACME Corp Salary,,4500.0
+2025-07-02,Landlord Rent,Rent,-1400.0
+2025-07-03,Trader Joes,,-51.04
+2025-07-04,Gym Membership,,-35.0
+2025-07-04,Trader Joes,,-102.04
+2025-07-06,Electric Company,,-92.61
+2025-07-06,Starbucks,,-30.02
+2025-07-07,Internet Provider,,-59.99
+2025-07-07,Trader Joes,,-31.93
+2025-07-09,Starbucks,,-12.2
+2025-07-09,Whole Foods,,-36.14
+2025-07-10,Netflix,,-15.99
+2025-07-10,Spotify,,-10.99
+2025-07-11,Trader Joes,,-43.28
+2025-07-13,Whole Foods,,-74.22
+2025-07-16,Trader Joes,,-53.04
+2025-07-18,Laptop Purchase,Shopping,-1800.0
+2025-07-19,Shell Gas,,-38.34
+2025-07-21,Uber,,-52.16
+2025-07-22,Starbucks,,-45.68
+2025-07-22,Trader Joes,,-31.59
+2025-07-22,Shell Gas,,-31.68
+2025-07-22,Pharmacy,,-28.76
+2025-07-22,Trader Joes,,-36.11
+2025-07-24,Restaurant,,-33.83
+2025-07-27,Amazon,,-39.08
+2025-08-01,ACME Corp Salary,,4500.0
+2025-08-01,Starbucks,,-30.41
+2025-08-01,Starbucks,,-64.85
+2025-08-01,Starbucks,,-69.55
+2025-08-02,Landlord Rent,Rent,-1400.0
+2025-08-03,Uber,,-22.96
+2025-08-03,Restaurant,,-41.07
+2025-08-04,Gym Membership,,-35.0
+2025-08-04,Trader Joes,,-92.96
+2025-08-04,Shell Gas,,-35.08
+2025-08-04,Restaurant,,-51.61
+2025-08-06,Trader Joes,,-86.31
+2025-08-06,Whole Foods,,-86.28
+2025-08-06,Electric Company,,-123.8
+2025-08-07,Internet Provider,,-59.99
+2025-08-10,Spotify,,-10.99
+2025-08-10,Netflix,,-15.99
+2025-08-11,Restaurant,,-14.82
+2025-08-12,Whole Foods,,-71.1
+2025-08-12,Whole Foods,,-89.56
+2025-08-13,Whole Foods,,-27.83
+2025-08-19,Whole Foods,,-104.83
+2025-08-22,Whole Foods,,-57.15
+2025-08-22,Amazon,,-111.44
+2025-08-24,Uber,,-20.55
+2025-08-24,Trader Joes,,-79.5
+2025-08-24,Pharmacy,,-12.37
+2025-08-26,Uber,,-59.45
+2025-08-26,Amazon,,-39.06
+2025-08-28,Trader Joes,,-91.05
+2025-09-01,ACME Corp Salary,,4500.0
+2025-09-02,Landlord Rent,Rent,-1400.0
+2025-09-02,Amazon,,-43.66
+2025-09-04,Starbucks,,-20.76
+2025-09-04,Whole Foods,,-51.54
+2025-09-04,Gym Membership,,-35.0
+2025-09-06,Restaurant,,-68.69
+2025-09-06,Electric Company,,-71.95
+2025-09-07,Internet Provider,,-59.99
+2025-09-08,Starbucks,,-46.23
+2025-09-09,Trader Joes,,-102.89
+2025-09-10,Netflix,,-15.99
+2025-09-10,Spotify,,-10.99
+2025-09-12,Whole Foods,,-67.78
+2025-09-13,Trader Joes,,-63.68
+2025-09-14,Amazon,,-96.1
+2025-09-15,Restaurant,,-31.32
+2025-09-16,Trader Joes,,-66.16
+2025-09-16,Starbucks,,-61.9
+2025-09-16,Shell Gas,,-16.82
+2025-09-19,Whole Foods,,-58.5
+2025-09-19,Shell Gas,,-24.35
+2025-09-21,Whole Foods,,-35.62
+2025-09-21,Whole Foods,,-109.61
+2025-09-21,Shell Gas,,-37.38
+2025-09-22,Uber,,-42.0
+2025-09-23,Restaurant,,-14.72
+2025-09-24,Whole Foods,,-39.99
+2025-09-24,Whole Foods,,-69.79
+2025-09-26,Amazon,,-108.09
+2025-09-27,Whole Foods,,-81.94
+2025-10-01,ACME Corp Salary,,4500.0
+2025-10-02,Amazon,,-72.33
+2025-10-02,Landlord Rent,Rent,-1400.0
+2025-10-03,Whole Foods,,-93.31
+2025-10-04,Gym Membership,,-35.0
+2025-10-05,Whole Foods,,-107.06
+2025-10-06,Shell Gas,,-17.94
+2025-10-06,Electric Company,,-112.46
+2025-10-07,Starbucks,,-27.44
+2025-10-07,Restaurant,,-50.3
+2025-10-07,Internet Provider,,-59.99
+2025-10-09,Whole Foods,,-39.1
+2025-10-10,Spotify,,-10.99
+2025-10-10,Netflix,,-15.99
+2025-10-10,Trader Joes,,-68.73
+2025-10-13,Starbucks,,-47.2
+2025-10-17,Whole Foods,,-93.15
+2025-10-19,Uber,,-39.83
+2025-10-19,Amazon,,-66.87
+2025-10-20,Whole Foods,,-39.25
+2025-10-22,Shell Gas,,-15.69
+2025-10-22,Emergency Car Repair,Transport,-950.0
+2025-10-22,Whole Foods,,-75.71
+2025-10-23,Starbucks,,-33.74
+2025-10-24,Trader Joes,,-87.53
+2025-10-26,Trader Joes,,-104.61
+2025-10-27,Amazon,,-60.91
+2025-11-01,ACME Corp Salary,,4500.0
+2025-11-02,Landlord Rent,Rent,-1400.0
+2025-11-03,Starbucks,,-31.35
+2025-11-04,Gym Membership,,-35.0
+2025-11-05,Starbucks,,-30.35
+2025-11-05,Starbucks,,-30.38
+2025-11-06,Electric Company,,-103.77
+2025-11-06,Trader Joes,,-85.12
+2025-11-06,Trader Joes,,-63.61
+2025-11-07,Internet Provider,,-59.99
+2025-11-09,Amazon,,-75.78
+2025-11-10,Spotify,,-10.99
+2025-11-10,Netflix,,-15.99
+2025-11-12,Restaurant,,-54.35
+2025-11-13,Whole Foods,,-31.3
+2025-11-14,Whole Foods,,-82.64
+2025-11-15,Freelance Payment,Freelance,732.0
+2025-11-16,Whole Foods,,-77.73
+2025-11-16,Trader Joes,,-43.89
+2025-11-16,Whole Foods,,-28.37
+2025-11-17,Whole Foods,,-99.69
+2025-11-17,Amazon,,-86.47
+2025-11-19,Starbucks,,-31.99
+2025-11-20,Shell Gas,,-53.72
+2025-11-22,Whole Foods,,-93.6
+2025-11-22,Shell Gas,,-16.55
+2025-11-24,Uber,,-35.13
+2025-11-25,Starbucks,,-27.63
+2025-11-27,Trader Joes,,-78.64
+2025-12-01,ACME Corp Salary,,4500.0
+2025-12-02,Landlord Rent,Rent,-1400.0
+2025-12-04,Gym Membership,,-35.0
+2025-12-06,Whole Foods,,-49.9
+2025-12-06,Electric Company,,-95.24
+2025-12-07,Internet Provider,,-59.99
+2025-12-07,Pharmacy,,-32.3
+2025-12-07,Starbucks,,-26.03
+2025-12-09,Whole Foods,,-109.92
+2025-12-09,Shell Gas,,-17.55
+2025-12-10,Netflix,,-15.99
+2025-12-10,Spotify,,-10.99
+2025-12-10,Trader Joes,,-74.42
+2025-12-11,Trader Joes,,-100.57
+2025-12-11,Whole Foods,,-66.98
+2025-12-11,Shell Gas,,-24.06
+2025-12-13,Amazon,,-88.29
+2025-12-13,Trader Joes,,-63.03
+2025-12-14,Starbucks,,-36.32
+2025-12-14,Amazon,,-26.25
+2025-12-16,Shell Gas,,-46.79
+2025-12-16,Restaurant,,-18.67
+2025-12-17,Amazon,,-84.34
+2025-12-22,Uber,,-51.78
+2025-12-23,Starbucks,,-35.32
+2025-12-25,Trader Joes,,-31.23
+2025-12-27,Trader Joes,,-47.69
+2025-12-28,Restaurant,,-59.0
